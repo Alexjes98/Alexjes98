@@ -1,3 +1,4 @@
+<h1 align="center">Hi, I'm Alejandro Lopez</h1>
 <h3 align="center">A Software developer interested in software architecture</h3>
 
 <h3 align="left">Connect with me:</h3>
