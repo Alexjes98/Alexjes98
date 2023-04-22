@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alejandro Lopez</h1>
 <h3 align="center">A Software developer interested in software architecture</h3>
-<p>Hi, welcome to my GitHub Profile</p>
+<p>Welcome to my GitHub Profile</p>
 <br/>
 <p>Im a software developer from Venezuela</p>
 <p>
