@@ -5,7 +5,7 @@
 <p>Im a software developer from Venezuela</p>
 <p>
   I started programming with Unity Projects to create video games, I have always loved the systems design and the creation and definition of processes.
-Later on my hobbie journey I discovered that video games required more parts like 2D/3D, writing and music design so I focused more on programming and less on games engines.
+Later on my hobbie journey I discovered that video games required more parts like 2D/3D model design, content writing and music production so I focused more on programming and less on games engines.
 </p>
 <p>
 I started working with Android and Flutter Apps for a startup in Guatemala and there I discovered the world of API, Backend Servers, Databases, and Frontend design. And later on my journey I discovered the world of cloud computing and the design of information systems.
