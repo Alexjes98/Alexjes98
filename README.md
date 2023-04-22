@@ -6,8 +6,12 @@
 <p>
   I started programming with Unity Projects to create video games, I have always loved the systems design and the creation and definition of processes.
 Later on my hobbie journey I discovered that video games required more parts like 2D/3D, writing and music design so I focused more on programming and less on games engines.
-I started working with Android and Flutter Apps for a startup in Guatemala and there I discovered the world of API, Backend Servers, Databases, and Frontend design.
- From that moment until now days my goal have always been to learn as much as possible from those who have more experience that I do, that in what lenguages tools and frameworks refers, because my main passion is system analysis and software architecture patterns.
+</p>
+<p>
+I started working with Android and Flutter Apps for a startup in Guatemala and there I discovered the world of API, Backend Servers, Databases, and Frontend design. And later on my journey I discovered the world of cloud computing and the design of information systems.
+</p>
+<p>
+  From that moment until now days my goal have always been to learn as much as possible from those who have more experience that I do, that in what lenguages tools and frameworks refers, because my main passion is system analysis and software architecture patterns.
 </p>
 
 - Simcity Hobby Project [Simcity](https://simcity-buildit-guwil5o4i-alexjes98.vercel.app/)
