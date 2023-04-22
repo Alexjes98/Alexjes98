@@ -14,7 +14,9 @@ I started working with Android and Flutter Apps for a startup in Guatemala and t
   From that moment until now days my goal have always been to learn as much as possible from those who have more experience that I do, that in what lenguages tools and frameworks refers, because my main passion is system analysis and software architecture patterns.
 </p>
 
+- My website (https://alexjes98.github.io/)
 - Simcity Hobby Project [Simcity](https://simcity-buildit-guwil5o4i-alexjes98.vercel.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
