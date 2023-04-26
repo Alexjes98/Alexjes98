@@ -4,14 +4,14 @@
 <br/>
 <p>Im a software developer from Venezuela</p>
 <p>
-  I started programming with Unity Projects to create video games, I have always loved the systems design and the creation and definition of processes.
-Later on in my hobby journey, I discovered that video games required more parts like 2D/3D model design, content writing and music production so I focused more on programming and less on games engines.
+  I started programming with Unity Projects to create video games, I have always loved system design and the creation and definition of processes.
+Later on in my hobby journey, I discovered that video games required other parts like 2D/3D model design, content writing and music production so I focused more on programming and less on game engines.
 </p>
 <p>
-I started working with Android and Flutter Apps for a startup in Guatemala and there I discovered the world of API, Backend Servers, Databases, and Frontend design. And later on my journey I discovered the world of cloud computing and the design of information systems.
+I started working with Android and Flutter Apps for a startup in Guatemala and there I discovered the world of APIs, Backend Servers, Databases, and Frontend design. And later on my journey I discovered the world of cloud computing and the design of information systems.
 </p>
 <p>
-  From that moment until now, my goal has always been to learn as much as possible from those with more experience that I do, in what languages tools, and frameworks refer to because my main passion is system analysis and software architecture patterns.
+  From that moment until now, my goal has always been to learn as much as possible from those with more experience than me, in matters of languages,tools, and frameworks because my main passion is system analysis and software architecture patterns.
 </p>
 
 - My [Website](https://alexjes98.github.io/)
