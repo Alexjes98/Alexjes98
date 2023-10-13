@@ -2,7 +2,7 @@
 <h3 align="center">A Software developer interested in software architecture</h3>
 <p>Welcome to my GitHub Profile</p>
 <br/>
-<p>Im a software developer from Venezuela</p>
+<p>Im a software engineer from Venezuela</p>
 <p>
   I started programming with Unity Projects to create video games, I have always loved system design and the creation and definition of processes.
 Later on in my hobby journey, I discovered that video games required other parts like 2D/3D model design, content writing and music production so I focused more on programming and less on game engines.
