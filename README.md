@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alejandro Lopez</h1>
-<h3 align="center">A Software developer interested in software architecture</h3>
+<h3 align="center">A Software Engineer interested in software architecture</h3>
 <p>Welcome to my GitHub Profile</p>
 <br/>
 <p>Im a software engineer from Venezuela</p>
