@@ -17,7 +17,7 @@ I started working with Android and Flutter Apps for a startup in Guatemala and t
 - My [Website](https://alexjes98.github.io/)
 - Simcity Hobby Project [Simcity](https://simcity-buildit-guwil5o4i-alexjes98.vercel.app/)
 - Three JS Project [Three JS](https://alexwebglfirstproject.vercel.app/)
-
+- Three JS Chess Board [Three JS](https://alex3-d-chess.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
