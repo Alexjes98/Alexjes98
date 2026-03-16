@@ -8,6 +8,7 @@
 - Simcity Hobby Project [Simcity](https://simcity-buildit.vercel.app/)
 - Three JS Project [Three JS](https://alexwebglfirstproject.vercel.app/)
 - Three JS Chess Board [Three JS](https://alex3-d-chess.vercel.app/)
+- Agentic Local-first Finances App [Finances](https://d1tda1o5e01sh2.cloudfront.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
